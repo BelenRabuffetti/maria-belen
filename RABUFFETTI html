@@ -1,0 +1,42 @@
+º<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>My Practice</title>
+   <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+   <main>
+      <h1>Santorini para ver los mejores atardeceres </h1>
+      <p>Santorini es una de las islas Cícladas en el mar Egeo. Fue devastada por una erupción volcánica en el siglo XVI AC, la cual le dió forma a su paisaje. Las casas cúbicas y blancas en sus 2 ciudades principales, Fira y Oia, se aferran a los acantilados sobre un cráter subterráneo. Las casas tienen vista al mar, las pequeñas islas al oeste y las playas de piedras de lava blancas, rojas y negras.</p>
+      <a href= "https://www.instagram.com/santorini?igsh=MWNyNmQ4bzE0NjRwcQ==
+      target="_blank title="Instagram Santorini" >Instagram Santorini</a> 
+
+      <h2> Encontrá en Oia los mejores atardeceres de Santorini </h2>
+      <p>Oia es una ciudad costera en el extremo noroeste de Santorini, una isla griega en el mar Egeo. La ciudad tiene casas blancas entre los acantilados escarpados y desde allí se ve un cráter cubierto de agua.</p>
+
+   
+      <div>
+         <img src="Images/oia-atardecer.JPG" alt="oia atardecer">
+         <img src="Images/oia-atardecer 2.JPG" alt="oia casas">
+        <img src="Images/oia-atardecer.JPG" alt="oia atardecer">
+       </div>
+   
+      <h3> ¿Necesitas encontrar el mejor hotel para alojarte? </h3>
+      <p> Sin dudas, El Greco es de las mejores opciones disponibles. </p>
+
+      <div>
+      <img src="images/Greco.png" alt="linkedin image">
+      </div>
+ 
+
+
+   </main> 
+
+   <footer></footer>
+
+   
+</html>
